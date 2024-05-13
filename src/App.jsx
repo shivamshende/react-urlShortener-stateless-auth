@@ -19,14 +19,13 @@ const App = () => {
         });
         const data = await response.json();
         setIsLoggedIn(data.isAuthenticated);
-        if(data.isAuthenticated){
-          setUserDetails({userId: data.userId, name: data.name, role: data.role});
+        if (data.isAuthenticated) {
+          setUserDetails({ userId: data.userId, name: data.name, role: data.role });
         }
       } catch (error) {
         console.error('Error checking authentication:', error);
       }
     };
-
     checkAuthentication();
   }, []);
 
