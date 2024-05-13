@@ -1,0 +1,14 @@
+.users-container {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.users-container {
+  text-align: center;
+}
+
+.users-table th,
+.users-table td {
+  text-align: center; 
+}
