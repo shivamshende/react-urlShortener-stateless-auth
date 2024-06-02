@@ -1,6 +1,7 @@
 # About
 
 This project is a URL shortener using React for the frontend, and a backend API for stateless authentication and database management. It allows users to shorten URLs and view their activity.
+Watch demo video - https://youtu.be/vsd2YASdqzQ?si=ttXAKUOrkgCxsl7_
 
 ## Description
 
