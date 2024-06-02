@@ -4,6 +4,8 @@ This project is a URL shortener using React for the frontend, and a backend API 
 
 Our Apis not working for some reason. Watch demo video - https://youtu.be/vsd2YASdqzQ?si=ttXAKUOrkgCxsl7_
 
+However, you can still run the project locally on your machine.
+
 ## Description
 
 **React URL Shortener with Stateless Authentication and Database Management**
